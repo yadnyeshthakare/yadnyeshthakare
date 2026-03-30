@@ -19,7 +19,8 @@ Data Analyst with a background in Artificial Intelligence and Data Science, work
 - Python (Pandas, Data Processing, EDA)  
 - Data Modeling (Relational Schema, Fact & Dimension Tables)  
 - ETL & Data Workflows (Data Cleaning, Transformation, Validation)  
-- Power BI (Dashboards, KPI Reporting)  
+- Power BI (Dashboards, KPI Reporting)
+- Excel ((Data Cleaning, Pivot Tables, Validation)
 
 ---
 
