@@ -1,6 +1,6 @@
 # Hi, I'm Yadnyesh 👋
 
-Data Analyst with exposure to data workflows and data modeling, working with SQL, Python, and Power BI to analyze data, build dashboards, and structure datasets for reporting.
+Data Analyst with exposure to data workflows and data modeling, working with SQL, Python, and BI Tools to analyze data, build dashboards, and structure datasets for reporting.
 
 ---
 
