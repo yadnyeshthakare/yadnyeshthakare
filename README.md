@@ -1,74 +1,74 @@
 # Hi, I'm Yadnyesh 👋
 
-Data Analyst with exposure to data workflows and data modeling, working with SQL, Python, and BI Tools to analyze data, build dashboards, and structure datasets for reporting.
+Data Analyst building production-style projects to analyze large datasets, uncover performance drivers, and support data-driven decision-making. Analyzed transactional datasets to generate insights, build KPI dashboards, and structure data for reporting.
 
 ---
 
 ## 🔹 What I Do
 
-- Analyze data using SQL and Python to generate actionable insights  
-- Build KPI dashboards to track business performance and trends  
-- Structure datasets using relational data modeling techniques  
-- Perform data cleaning, validation, and transformation for analysis  
-- Work with transactional datasets to support reporting and decision-making  
+- Analyze datasets using SQL and Python to uncover revenue patterns and performance drivers
+- Build KPI dashboards to track business performance, trends, and operational metrics
+- Design structured datasets using relational data modeling for scalable analysis
+- Perform data cleaning, validation, and transformation to ensure accurate and reliable reporting
+- Translate raw data into actionable insights supporting business decisions 
 
 ---
 
 ## 🔹 Key Skills
 
-- SQL (Joins, Aggregations, Data Modeling)  
-- Python (Pandas, Data Analysis, EDA)  
-- Power BI (Dashboards, KPI Reporting)  
-- Data Modeling (Relational Schema, Structured Datasets)  
-- Data Transformation & Data Cleaning  
-- Excel (Pivot Tables, Data Validation)  
-
+- SQL & Data Analysis: Joins, Aggregations, CTEs, KPI & Trend Analysis
+- Python: Pandas (Data Cleaning, EDA, Transformation)
+- Visualization: Power BI (Dashboards), Excel (Reporting & Analysis)
+- Data Modeling: Relational Schema, Structured Data Design
+- Data Quality: Validation, Integrity Checks
+  
 ---
 
 ## 🔹 Featured Projects
 
 ### 📊 Sales Analytics Dashboard (SQL + Power BI)
 
-- Analyzed 150K+ transactions using SQL to evaluate revenue, sales volume, and market-level performance across regions  
-- Tracked ~986M revenue and ~2M units sold through KPI dashboards, enabling clear visibility into business performance  
-- Identified Delhi NCR contributing ~50%+ revenue, highlighting strong regional dependency and potential concentration risk  
-- Highlighted top-performing product (Prod318, ~69M revenue) to support product prioritization and revenue optimization  
-- Detected peak sales period (~43M in Jan 2018) through time-based trend analysis, revealing seasonal demand patterns  
+- Analyzed 150K+ transactions to uncover ~₹986M revenue patterns, enabling visibility into regional and product-level performance.
+- Identified Delhi NCR contributing 50%+ revenue, highlighting dependency risk and need for diversification.
+- Discovered top-performing product (~₹69M revenue) to support product prioritization.
+- Detected seasonal sales trends (~₹43M peak) enabling better demand planning.
+- Built KPI dashboards tracking revenue, sales volume (~2M units), and trends.
 
 ---
 
+
 ### 🗄️ Relational Data Modeling & SQL Workflow System (PostgreSQL)
 
-- Designed normalized relational schema (6+ tables) with primary and foreign keys to ensure data integrity and structured data storage  
-- Developed SQL-based data workflows for transformation and reporting using joins, aggregations, and CTAS queries  
-- Created analytical queries to track operational metrics such as book issues, returns, and category-level performance  
-- Applied data quality checks (null handling, duplicate detection, referential integrity) to maintain consistency and reliability  
+- Designed normalized relational schema (6+ tables) ensuring data integrity and structured analytics.
+- Built SQL-based workflows for data ingestion, transformation, and reporting (ETL-style).
+- Developed queries to track operational metrics (issues, returns, category trends).
+- Implemented data quality checks (nulls, duplicates, referential integrity) to ensure reliable data.
 
 ---
 
 ### 🏡 Airbnb Pricing & Demand Analytics (Python)
 
-- Analyzed Airbnb listings dataset using Pandas to evaluate pricing, availability, and demand patterns across different segments  
-- Performed data cleaning and feature preparation to ensure consistent and reliable analysis  
-- Identified location and room type as key pricing drivers, with entire homes generating higher revenue potential  
-- Detected seasonal demand patterns and pricing variations, supporting data-driven pricing insights  
-
+- Analyzed Airbnb data to identify pricing variations across neighborhoods, with Manhattan as premium market.
+- Identified room type and bedrooms as key pricing drivers, enabling segment-based pricing insights.
+- Performed correlation analysis to prioritize features impacting pricing decisions.
+- Analyzed geographic distribution to identify high-demand zones (Manhattan & Brooklyn).
+  
 ---
 
 ### 📈 Sales KPI Dashboard (Excel)
 
-- Built KPI dashboards using Excel to track sales performance, revenue trends, and operational metrics  
-- Used pivot tables and data transformations to summarize large datasets for reporting and analysis  
-- Identified trends and performance patterns to support business monitoring and decision-making  
-- Applied data validation and cleaning techniques to ensure accuracy and consistency in reporting  
+- Built dashboards to track sales performance, revenue trends, and operational metrics.
+- Used pivot tables to convert raw data into structured business insights.
+- Identified trends supporting performance monitoring and decision-making.
+  
 ---
 
 ## 🔹 Focus
 
-- Applying SQL-based data workflows for transformation and reporting  
-- Building structured datasets for analytics and dashboards  
-- Ensuring data quality through validation and consistency checks  
-- Translating data into business insights  
+- Applying data analysis to solve real business problems
+- Building scalable data workflows and structured datasets
+- Ensuring data quality and consistency in reporting
+- Translating data into clear, actionable business insights
 
 ---
 
